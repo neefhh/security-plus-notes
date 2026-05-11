@@ -18,3 +18,22 @@ The CIA Triad - A foundational model that helps inform how organizations conside
 - C. **Confidentiality** – Protecting sensitive information from unauthorized access  
 - I. **Integrity** – Ensuring data remains accurate and unmodified  
 - A. **Availability** – Ensuring systems and data are accessible when needed
+
+## Malware types
+Ransomware: Encrypts files and demands payment for the decryption key.
+Virus: Attaches to legitimate files and spreads when the user executes the file.
+Worms: Self-replicating malware that spreads across networks without human intervention.
+
+## Security frameworks and controls
+Security framewokrs are guidelines used to building plans to help mitigate risk and threats to data and privacy
+Security controls are safeguards designed to reduce specific security risks
+1. Identifying and documenting security goals
+2. Setting guidelins to achieve security goals
+3. Implementing strong security processes
+4. Monitoring and communicating results
+
+## Social engineering 
+Is the psychological manipulation of people into performing actions or divulging confidential information, such as passwords, bank details, or security access.
+- Researches the victim: Identifies targets and gathers information to craft a convincing deception.
+- Establishes Trust/Urgency: Impersonates trusted entities (coworkers, banks, authorities) to bypass security protocols.
+- Executes the Attack: Tricks the victim into revealing data, downloading malicious software, or transferring funds

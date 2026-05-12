@@ -46,3 +46,12 @@ Essential cybersecurity ports are specific network communication endpoints that 
 - 3389 (RDP) being a major target for attacks
 ## Security audit
 A security audit is a review of an organization's security controls, policies, and procedures against a set of expectations.
+## Security Policy
+1. Anti-Phishing Solution
+A bit pricy, but an excellent response since a lot of threats come through email!
+2. Antivirus Solution
+An expensive but strong response to malicious phishing attachments or malware downloads.
+3. Access Management Policy
+Nice initiative! A good policy will make it harder for deepfakes to trick the IT support.
+4. Security Awareness Program
+Not a bulletproof solution, but educating the employees is always a great idea!

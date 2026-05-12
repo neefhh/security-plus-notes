@@ -44,5 +44,5 @@ Essential cybersecurity ports are specific network communication endpoints that 
 - DNS (53)
 - SMB (445) for file sharing
 - 3389 (RDP) being a major target for attacks
-
+## Security audit
 A security audit is a review of an organization's security controls, policies, and procedures against a set of expectations.

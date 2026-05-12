@@ -37,3 +37,10 @@ Is the psychological manipulation of people into performing actions or divulging
 - Researches the victim: Identifies targets and gathers information to craft a convincing deception.
 - Establishes Trust/Urgency: Impersonates trusted entities (coworkers, banks, authorities) to bypass security protocols.
 - Executes the Attack: Tricks the victim into revealing data, downloading malicious software, or transferring funds
+## Essential ports
+Essential cybersecurity ports are specific network communication endpoints that must be monitored, secured, or restricted to prevent unauthorized access and data breaches
+- SSH (22) for secure remote access 
+- HTTPS (443) for encrypted web traffic
+- DNS (53)
+- SMB (445) for file sharing
+- 3389 (RDP) being a major target for attacks

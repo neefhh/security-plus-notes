@@ -55,3 +55,19 @@ An expensive but strong response to malicious phishing attachments or malware do
 Nice initiative! A good policy will make it harder for deepfakes to trick the IT support.
 4. Security Awareness Program
 Not a bulletproof solution, but educating the employees is always a great idea!
+## Log
+A record of events that occur within an organzation's systems and networks
+Common logs are (Firewall logs, Network logs, Server logs
+## SIEM tools 
+SIEM (Security Information and Event Management) tools
+An application that collects and analyze log data to mointor critical activies in an organzation 
+Real time visibility
+## Metrics
+Key technical attributes such as response time, availability, and failure rate, which are used to assess the performance of a software applcation
+Can make a dashboard of metrics
+## SIEM tools
+Is an application that collects and analyzes log data to monitor critical activities in an organization. SIEM tools offer real-time monitoring and tracking of security event logs.
+SIEM tools must be configured and customized to meet each organization's unique security needs.
+Self hosted
+Cloud hosted
+Hybrid

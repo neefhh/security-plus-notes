@@ -71,3 +71,5 @@ SIEM tools must be configured and customized to meet each organization's unique 
 Self hosted
 Cloud hosted
 Hybrid
+## Modems
+Modems usually connect your home or office with an internet service provider (ISP). ISPs provide internet connectivity via telephone lines, coaxial cables, or fiber optic cables. 

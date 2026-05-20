@@ -73,3 +73,7 @@ Cloud hosted
 Hybrid
 ## Modems
 Modems usually connect your home or office with an internet service provider (ISP). ISPs provide internet connectivity via telephone lines, coaxial cables, or fiber optic cables. 
+## Cloud Computing
+Is the on-demand delivery of computing services—including servers, storage, databases, networking, and software—over the internet.
+## Data packet
+A basic unit of information that travels from one device to another within a network.

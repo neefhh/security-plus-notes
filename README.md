@@ -77,3 +77,5 @@ Modems usually connect your home or office with an internet service provider (IS
 Is the on-demand delivery of computing services—including servers, storage, databases, networking, and software—over the internet.
 ## Data packet
 A basic unit of information that travels from one device to another within a network.
+## Decoy system
+A decoy system functions as a honey pot, which basically lures attackers in to a controlled and monitored environment

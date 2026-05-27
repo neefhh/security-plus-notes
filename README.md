@@ -79,3 +79,11 @@ Is the on-demand delivery of computing services—including servers, storage, da
 A basic unit of information that travels from one device to another within a network.
 ## Decoy system
 A decoy system functions as a honey pot, which basically lures attackers in to a controlled and monitored environment
+## TCP/IP  OSI Models
+Both models illustrate network processes and protocols for data transmission between two or more systems. 
+Both models define standards for networking and divide the network communication process into different layers.
+Both models include an application and a transport layer.
+## IP version 4
+4/ 1 2 or 3 digits # with decimal point
+## IP version 6
+32 characters

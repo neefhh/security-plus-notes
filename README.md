@@ -87,3 +87,25 @@ Both models include an application and a transport layer.
 4/ 1 2 or 3 digits # with decimal point
 ## IP version 6
 32 characters
+## Assets in digital world
+Data is info processed by computer 
+## States of data
+In use - Data being access by 1 or more users. ex: checking email
+In transit - Data traveling to 1 point to another. ex: replying to friend text message 
+At rest - Data not currently being accessed ex: turning off laptop. Data in laptop is at rest
+We are responsible to protecting data in all states 
+## Information security (InfoSEC)
+The process of keeping data in all states away from unauthorized users
+## Types of risk categories
+Damage
+Disclosure
+Loss of info
+## Elements of security planning
+Policies - A set of rules that reduce risk (FOUNDATION)
+Standards - References that inform
+Procedures - Step by step instructions to perform a specific security task
+## NIST CSF components
+Core 1.Identify 2.Protect 3.Detect 4.Respond 5.Recover
+Tiers
+Profiles
+NIST is a voluntary framework
